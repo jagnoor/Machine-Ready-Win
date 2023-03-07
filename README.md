@@ -247,8 +247,4 @@ npm install d3 react react
 *   If you encounter any issues during installation, try running the batch file as an administrator.
 *   Keep your software and libraries up-to-date by regularly checking for updates and installing them.
 *   Practice coding and experimenting with different tools and libraries to build your skills and gain experience. The more you practice, the better you will become!
-*   Don't be afraid to ask for help or collaborate with others in the course. Learning is always more fun when you do it with others.
-
-> are you done?
-
-Yes, I am done. Let me know if you have any further questions or if there's anything else I can assist you with.
+*   Don't be afraid to ask for help. Learning is always more fun when you do it with others.

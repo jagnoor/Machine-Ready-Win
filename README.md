@@ -1,5 +1,5 @@
-Full-Stack Web Development Course with Data Science and Visualization
-=====================================================================
+Full-Stack Web Development with Data Science and Visualization System Setup Guide
+==================================================================================
 
 This guide will help you prepare your Windows machine for the course by providing step-by-step instructions and automated code to install all the necessary software and libraries.
 
